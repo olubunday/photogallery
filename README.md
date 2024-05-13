@@ -20,6 +20,9 @@ Simply open the index.html file in a web browser to view the photo gallery.
 
 - **Update Content**: Modify the titles and alt attributes of images in the HTML file to reflect the content of your gallery.
 
+## Link
+- Visit https://olubunday.github.io/my-resume-website/ to view the gallery.
+
 ## Author
 Designed by Akinlowo Olumide for 34 Media NG.
 
